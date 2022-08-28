@@ -1,0 +1,32 @@
+*{
+  margin: 0%;
+  box-sizing: border-box;
+}
+main{ 
+  width: 300px;
+margin: auto;
+  text-align: center;
+  margin-top: 175px;
+}
+
+body{
+background: #54A1CD;
+color: aqua;
+font-family: 'Roboto Slab', serif;
+}
+
+a:hover{
+color: black;
+}
+h1{
+  
+  font-size: 40px ;
+}
+p{
+  margin-bottom: 145px;
+}
+img{
+  border-radius: 50%;
+  width: 126px;
+  border: 6px solid #FF39F7;
+}
